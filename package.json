@@ -1,6 +1,6 @@
 {
   "name": "parrot-translate-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "main": "dist/parrot-cli.js",
   "bin": {
@@ -14,7 +14,7 @@
     "doc": "gulp doc",
     "lint": "gulp lint",
     "prepush": "gulp lint",
-    "prepupublish": "rimraf dist && gulp build"
+    "prepublish": "rimraf dist && gulp build"
   },
   "babel": {
     "presets": [

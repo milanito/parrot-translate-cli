@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import commander from 'commander';
 import winston from 'winston';
 import { prompt } from 'inquirer';
