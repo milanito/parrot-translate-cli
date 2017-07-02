@@ -2,9 +2,9 @@
   "name": "parrot-translate-cli",
   "version": "0.1.0",
   "license": "MIT",
-  "main": "dist/parrot.js",
+  "main": "dist/parrot-cli.js",
   "bin": {
-    "parrot-cli": "./dist/parrot.js"
+    "parrot-cli": "./dist/parrot-cli.js"
   },
   "files": [
     "dist"
