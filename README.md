@@ -1,5 +1,7 @@
 # Parrot CLI
 
+[![CircleCI](https://circleci.com/gh/milanito/parrot-translate-cli.svg?style=svg)](https://circleci.com/gh/milanito/parrot-translate-cli) [![npm version](https://badge.fury.io/js/parrot-translate-cli.svg)](https://badge.fury.io/js/parrot-translate-cli) [![GitHub issues](https://img.shields.io/github/issues/milanito/parrot-translate-cli.svg)](https://github.com/milanito/parrot-translate-cli/issues) [![GitHub stars](https://img.shields.io/github/stars/milanito/parrot-translate-cli.svg)](https://github.com/milanito/parrot-translate-cli/stargazers)
+
 This module is a CLI tool for any [parrot](http://anthonynsimon.com/parrot.github.io/) backend.
 
 > I made this because I needed specific actions, if you need any other, please feel free to open an issue, or even  an PR :)
