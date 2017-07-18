@@ -1,6 +1,6 @@
 {
   "name": "parrot-translate-cli",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "license": "MIT",
   "description": "This is a command line tool to use with a Parrot backend",
   "main": "dist/parrot-cli.js",
